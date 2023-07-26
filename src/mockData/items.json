@@ -1,0 +1,137 @@
+[
+    {
+      "id": 1,
+      "name": "Biryani",
+      "brand": "",
+      "color": "#6cb58f",
+      "saleDiscount": 22,
+      "price": 150,
+      "rating": 5,
+      "image": "/assets/biryani.jpeg",
+      "desc":"Simply put, biryani is a spiced mix of meat and rice, traditionally cooked over an open fire in a leather pot. It is combined in different ways with a variety of components to create a number of highly tasty and unique flavor combinations."
+    },
+    {
+        "id": 2,
+      "name": "Noodles",
+      "brand": "",
+      "color": "#6cb58f",
+      "saleDiscount": 22,
+      "price": 120,
+      "rating": 4,
+      "image": "/assets/noodles.jpeg",
+      "desc":"noodle, a cooked egg-and-flour paste prominent in European and Asian cuisine, generally distinguished from pasta by its elongated ribbonlike form. Noodles are commonly used to add body and flavour to broth soups. They are commonly boiled or sautéed and served with sauces and meats or baked in casseroles."
+    },
+    {
+        "id": 3,
+      "name": "Double ka meeta",
+      "brand": "",
+      "color": "#6cb58f",
+      "saleDiscount": 22,
+      "price": 100,
+      "rating": 5,
+      "image": "/assets/doublekameeta.jpeg",
+      "desc":"Double ka meetha refers to the milk bread, called double roti in the local Indian dialects because it swells up to almost double its original size after baking."
+    },
+    {
+        "id": 4,
+      "name": "Custard",
+      "brand": "",
+      "color": "#6cb58f",
+      "saleDiscount": 22,
+      "price": 80,
+      "rating": 3,
+      "image": "/assets/custard.jpeg",
+      "desc": "custard, mixture of eggs, milk, sugar, and flavourings which attains its consistency by the coagulation of the egg protein by heat. Baked custard contains whole eggs, which cause the dish to solidify to a gel."
+    },
+    {
+      "id": 5,
+    "name": "Burger",
+    "brand": "",
+    "color": "#6cb58f",
+    "saleDiscount": 22,
+    "price": 100,
+    "rating": 3.2,
+    "image": "/assets/Burger.jpeg",
+    "desc": "a popular sandwich made from ground meats that are formed into a patty, cooked, and placed between two halves of a bun."
+    },
+    {
+      "id": 6,
+    "name": "Pizza",
+    "brand": "",
+    "color": "#6cb58f",
+    "saleDiscount": 22,
+    "price": 150,
+    "rating": 4,
+    "image": "/assets/Pizza.jpeg",
+    "desc": "pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly—usually, in a commercial setting, using a wood-fired oven heated to a very high temperature—and served hot."
+    },
+    {
+      "id": 7,
+    "name": "Donuts",
+    "brand": "",
+    "color": "#6cb58f",
+    "saleDiscount": 22,
+    "price": 150,
+    "rating": 4,
+    "image": "/assets/Donuts.jpeg",
+    "desc": "Doughnuts are a kind of ring-shaped snack food popular in many countries, which are usually deep fried from flour doughs. After being fried, doughnuts can be spread with chocolate or icing on top, covered with powdered sugar or fruit, or glazed with sugar icing."
+    },
+    {
+      "id": 8,
+    "name": "Dosa",
+    "brand": "",
+    "color": "#6cb58f",
+    "saleDiscount": 22,
+    "price": 70,
+    "rating": 4.5,
+    "image": "/assets/Dosa.jpeg",
+    "desc": "A dosa is South Indian, fermented crepe made from rice batter and black lentils. Masala Dosa, specifically, is when you stuff it with a lightly cooked filling of potatoes, fried onions and spices."
+    },
+    {
+      "id": 9,
+    "name": "Sandwich",
+    "brand": "",
+    "color": "#6cb58f",
+    "saleDiscount": 22,
+    "price": 65,
+    "rating": 3.5,
+    "image": "/assets/Sandwich.jpeg",
+    "desc": "A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more generally any dish wherein bread serves as a container or wrapper for another food type."
+    },
+    {
+      "id": 10,
+    "name": "Somosa",
+    "brand": "",
+    "color": "#6cb58f",
+    "saleDiscount": 22,
+    "price": 25,
+    "rating": 4,
+    "image": "/assets/samosa.jpeg",
+    "desc": "A samosa is a fried South Asian pastry with a savoury filling, including ingredients such as spiced potatoes, onions, peas, meat or fish. It may take different forms, including triangular, cone, or half-moon shapes, depending on the region."
+    },
+    {
+      "id": 11,
+    "name": "Pop Corn",
+    "brand": "",
+    "color": "#6cb58f",
+    "saleDiscount": 22,
+    "price": 75,
+    "rating": 4,
+    "image": "/assets/pop_corn.jpeg",
+    "desc": "Popcorn (also called popped corn, popcorns or pop-corn) is a variety of corn kernel which expands and puffs up when heated; the same names also refer to the foodstuff produced by the expansion."
+    },
+    {
+      "id": 12,
+    "name": "French Fries",
+    "brand": "",
+    "color": "#6cb58f",
+    "saleDiscount": 22,
+    "price": 100,
+    "rating": 4,
+    "image": "/assets/french _fries.jpeg",
+    "desc": "french fries, also called chips, finger chips, fries, or French pommes frites, side dish or snack typically made from deep-fried potatoes that have been cut into various shapes, especially thin strips. Fries are often salted and served with other items, including ketchup, mayonnaise, or vinegar."
+    }
+
+    
+    
+  ]
